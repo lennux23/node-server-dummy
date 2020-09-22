@@ -1,0 +1,19 @@
+{
+  "name": "servidor.pruebas",
+  "version": "1.0.0",
+  "description": "Servidor node de pruebas",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "alexochihua@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1"
+  }
+}
